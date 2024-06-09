@@ -1,0 +1,158 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+section{
+   
+    width: 100%;
+    height: 40vh;
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 100%;
+    display: flex;
+    background-color: #003355;
+    align-items: center;
+    justify-content: space-around;
+    padding: 25px;
+}
+#icono img{
+    width: 80px;
+    background: #ffffff;
+    border-radius: 50%;
+    padding: 6px;
+    margin-right: 15px;
+}
+#icono{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+}
+nav ul a{
+    text-decoration: none;
+    font-size: 40px;
+    color: #ffffff;
+    margin: 10px;
+    transition: 0.5s;
+
+}
+nav ul a:hover{
+    border-bottom: 2px solid #ff0000;
+}
+/* ESTILOS DE LA BARRA DE NAVEGACION */
+body{
+    background-color:black; 
+  
+}
+.museon{
+    margin: 20px;
+}
+img{
+    align-items: center;
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+    text-align: justify;
+    font-size: 25px;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.museob{
+    margin: 20px;
+}
+img{
+    align-items: center;
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+    text-align: justify;
+    font-size: 25px;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.museodb{
+    margin: 20px;
+}
+img{
+    align-items: center;
+}
+h1{
+    color: blue;
+    font-size: 60px;
+}
+h3{
+    color: white;
+    text-align: justify;
+    font-size: 25px;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.museodi{
+    margin: 20px;
+}
+img{
+    align-items: center;
+}
+h1{
+    color: blue;
+    font-size: 60px;
+}
+h3{
+    color: white;
+    text-align: justify;
+    font-size: 25px;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.museodo{
+    margin: 20px;
+}
+img{
+    align-items: center;
+}
+h1{
+    color: blue;
+    font-size: 60px;
+}
+h3{
+    color: white;
+    text-align: justify;
+    font-size: 25px;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
